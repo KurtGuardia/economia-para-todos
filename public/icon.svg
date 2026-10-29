@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Economía para Todos · Bolivia</title>
+  <defs><clipPath id="tricolor"><rect x="3" y="3" width="42" height="42" rx="10"/></clipPath></defs>
+  <g clip-path="url(#tricolor)">
+    <path fill="#d52b1e" d="M3 3h42v14H3z"/>
+    <path fill="#f9e300" d="M3 17h42v14H3z"/>
+    <path fill="#007934" d="M3 31h42v14H3z"/>
+  </g>
+  <rect x="3" y="3" width="42" height="42" rx="10" fill="none" stroke="#123d2a" stroke-opacity=".15"/>
+</svg>
